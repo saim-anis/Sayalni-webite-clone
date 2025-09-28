@@ -19,13 +19,13 @@ HTML5 <br>
 
 CSS3 <br>
 
-JavaScript (optional/if added functionality) <br>
+JavaScript  <br>
 
 Font Awesome (for icons) <br>
 
 Google Fonts (for typography) <br>
 
-🚀 Getting Started
+🚀 Getting Started  <br>
 Clone the repository
 using git clone url
 bash
@@ -38,7 +38,7 @@ Just open the index.html file in any modern browser.
 
 🎯 Purpose
 This project is purely for educational purposes and to practice front-end web development skills. It is not affiliated with or endorsed by Saylani Welfare International Trust.
-<br>
+<br>  <br>
 📞 Contact <br>
 Developer: Saim Anis <br>
 GitHub: github.com/Saim-Anis <br>
