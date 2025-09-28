@@ -30,7 +30,7 @@ Clone the repository
 using git clone url
 bash
 
-git clone https://github.com/saim-anis/saylani-clone.git <br>
+git clone https://github.com/saim-anis/sayalni-webite-clone.git <br>
 Open in your browser
 Just open the index.html file in any modern browser.
 
